@@ -1,0 +1,36 @@
+.footer .socials a {
+    padding: 30% !important;
+}
+
+.section.started .mouse-btn {
+    padding: 21px !important;
+}
+.vertical-center {
+    display: table-cell!important;
+    
+}
+@media (min-width: 1200px) {
+    .vertical-center {
+        display: table-cell!important;
+        vertical-align:middle!important;
+    }
+    .centrize {
+        height: 100%!important;
+    }
+}
+.section .titles .title {
+    font-size: 40px !important;
+}
+
+.centered-li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+@media (max-width: 1200px) {
+    .centrize {
+        height: 60%!important;
+    }
+}
